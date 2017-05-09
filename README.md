@@ -12,5 +12,6 @@ Note:
 * 192.168.33.20 is the machine where ZK docker runs
 * Get zkcluster-1.0.jar by https://github.com/caihua-yin/zkcluster
 
-Reference:
-https://zookeeper.apache.org/doc/trunk/javaExample.html
+####Reference:
+* https://zookeeper.apache.org/doc/trunk/javaExample.html
+* http://java.globinch.com/enterprise-services/zookeeper/apache-zookeeper-explained-tutorial-cases-zookeeper-java-api-examples/
